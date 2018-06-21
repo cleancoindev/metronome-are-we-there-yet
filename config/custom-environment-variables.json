@@ -1,0 +1,14 @@
+{
+  "account": {
+    "privKey": "ACCOUNT_PRIV_KEY"
+  },
+  "eth": {
+    "wsUrl": "ETH_WS_URL"
+  },
+  "logger": {
+    "Papertrail": {
+      "host": "LOGGER_PAPERTRAIL_HOST",
+      "port": "LOGGER_PAPERTRAIL_PORT"
+    }
+  }
+}
